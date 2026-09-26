@@ -19,6 +19,7 @@ load_dotenv(PROJECT_ROOT / ".env")
 # ============================================================
 
 def _require(name):
+    load_dotenv(PROJECT_ROOT / ".env", override=True)
     value = (os.getenv(name) or "").strip()
 
     if not value or value.startswith("PASTE_"):

@@ -4,7 +4,7 @@ A multi-stage AI workbench that routes and processes tasks across vision analysi
 
 ---
 
-## 🏆 Hackathon Tracks
+## Hackathon Tracks
 
 We have used the **Auth0 track** and **.xyz track**:
 - **Auth0 Track**: Integrated Auth0 for secure user authentication, Universal Login, session management, and account-isolated chat sessions and knowledge base storage.
