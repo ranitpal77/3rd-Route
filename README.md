@@ -1,6 +1,16 @@
-# MMAR - Multimodal Multi-Agent Workbench
+# MMAR - Multi-Modal Agentic Router
 
 A multi-stage AI workbench that routes and processes tasks across vision analysis, knowledge base retrieval, web-augmented reasoning, and code generation.
+
+---
+
+## 🏆 Hackathon Tracks
+
+We have used the **Auth0 track** and **.xyz track**:
+- **Auth0 Track**: Integrated Auth0 for secure user authentication, Universal Login, session management, and account-isolated chat sessions and knowledge base storage.
+- **.xyz Track**: Leveraged the `.xyz` domain track for hosting and public web deployment of the 3rd-Route workbench platform.
+
+---
 
 ## Pipeline Architecture
 
